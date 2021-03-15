@@ -1,0 +1,121 @@
+{
+	"BUILD_DIR" : "/home/tran/C_pp/Qt_gui/Qtwidgets/build/src/widgets_opencv_autogen",
+	"CMAKE_BINARY_DIR" : "/home/tran/C_pp/Qt_gui/Qtwidgets/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/tran/C_pp/Qt_gui/Qtwidgets/build/src",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/tran/C_pp/Qt_gui/Qtwidgets/src",
+	"CMAKE_EXECUTABLE" : "/home/tran/cmake-install/bin/cmake",
+	"CMAKE_LIST_FILES" : [ "/home/tran/C_pp/Qt_gui/Qtwidgets/src/CMakeLists.txt" ],
+	"CMAKE_SOURCE_DIR" : "/home/tran/C_pp/Qt_gui/Qtwidgets",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/tran/C_pp/Qt_gui/Qtwidgets/src/image_process.h",
+			"MU",
+			"EWIEGA46WW/moc_image_process.cpp"
+		],
+		[
+			"/home/tran/C_pp/Qt_gui/Qtwidgets/src/mainwindow.h",
+			"MU",
+			"EWIEGA46WW/moc_mainwindow.cpp"
+		],
+		[
+			"/home/tran/C_pp/Qt_gui/Qtwidgets/src/my_layout.h",
+			"MU",
+			"EWIEGA46WW/moc_my_layout.cpp"
+		],
+		[
+			"/home/tran/C_pp/Qt_gui/Qtwidgets/src/serial_port.h",
+			"MU",
+			"EWIEGA46WW/moc_serial_port.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/tran/C_pp/Qt_gui/Qtwidgets/build/src/widgets_opencv_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/tran/C_pp/Qt_gui/Qtwidgets/build/src/widgets_opencv_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_MULTIMEDIAWIDGETS_LIB",
+		"QT_MULTIMEDIA_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_QMLMODELS_LIB",
+		"QT_QML_LIB",
+		"QT_QUICK_LIB",
+		"QT_SERIALBUS_LIB",
+		"QT_SERIALPORT_LIB",
+		"QT_WIDGETS_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/tran/C_pp/Qt_gui/Qtwidgets/build/src",
+		"/home/tran/C_pp/Qt_gui/Qtwidgets/src",
+		"/opt/ros/kinetic/include/opencv-3.3.1-dev",
+		"/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv",
+		"/home/tran/Qt/5.15.2/gcc_64/include",
+		"/home/tran/Qt/5.15.2/gcc_64/include/QtCore",
+		"/home/tran/Qt/5.15.2/gcc_64/mkspecs/linux-g++",
+		"/home/tran/Qt/5.15.2/gcc_64/include/QtWidgets",
+		"/home/tran/Qt/5.15.2/gcc_64/include/QtGui",
+		"/home/tran/Qt/5.15.2/gcc_64/include/QtQuick",
+		"/home/tran/Qt/5.15.2/gcc_64/include/QtQmlModels",
+		"/home/tran/Qt/5.15.2/gcc_64/include/QtQml",
+		"/home/tran/Qt/5.15.2/gcc_64/include/QtNetwork",
+		"/home/tran/Qt/5.15.2/gcc_64/include/QtSerialPort",
+		"/home/tran/Qt/5.15.2/gcc_64/include/QtSerialBus",
+		"/home/tran/Qt/5.15.2/gcc_64/include/QtMultimedia",
+		"/home/tran/Qt/5.15.2/gcc_64/include/QtMultimediaWidgets",
+		"/usr/include",
+		"/usr/include/c++/9",
+		"/usr/include/x86_64-linux-gnu/c++/9",
+		"/usr/include/c++/9/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/9/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/home/tran/cmake-install/share/cmake-3.19/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/tran/C_pp/Qt_gui/Qtwidgets/build/src/widgets_opencv_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/home/tran/C_pp/Qt_gui/Qtwidgets/build/src/CMakeFiles/widgets_opencv_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/home/tran/Qt/5.15.2/gcc_64/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/home/tran/Qt/5.15.2/gcc_64/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/tran/C_pp/Qt_gui/Qtwidgets/build/src/CMakeFiles/widgets_opencv_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/home/tran/C_pp/Qt_gui/Qtwidgets/src/image_process.cpp", "MU" ],
+		[ "/home/tran/C_pp/Qt_gui/Qtwidgets/src/main.cpp", "MU" ],
+		[ "/home/tran/C_pp/Qt_gui/Qtwidgets/src/mainwindow.cpp", "MU" ],
+		[ "/home/tran/C_pp/Qt_gui/Qtwidgets/src/my_layout.cpp", "MU" ],
+		[ "/home/tran/C_pp/Qt_gui/Qtwidgets/src/serial_port.cpp", "MU" ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,6 @@
+/home/tran/C_pp/Qt_gui/Qtwidgets/build/CMakeFiles/rebuild_cache.dir
+/home/tran/C_pp/Qt_gui/Qtwidgets/build/CMakeFiles/edit_cache.dir
+/home/tran/C_pp/Qt_gui/Qtwidgets/build/src/CMakeFiles/rebuild_cache.dir
+/home/tran/C_pp/Qt_gui/Qtwidgets/build/src/CMakeFiles/widgets_opencv.dir
+/home/tran/C_pp/Qt_gui/Qtwidgets/build/src/CMakeFiles/edit_cache.dir
+/home/tran/C_pp/Qt_gui/Qtwidgets/build/src/CMakeFiles/widgets_opencv_autogen.dir
